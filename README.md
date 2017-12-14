@@ -23,7 +23,7 @@ Feel free to contributing. As for now, the only requirements for contributing is
 
 * **August von Hacht** - *Initial work* - [vonhachtaugust](https://github.com/vonhachtaugust)
 
-See also the list of [contributors](https://github.com/vonhachtaugust/GameTheory/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/vonhachtaugust/ghost-ocr/contributors) who participated in this project.
 
 ## License
 
