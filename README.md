@@ -1,6 +1,8 @@
 # Ghost-ocr
 Extract text from 'glimpsing' a pdf.
 
+The idea is to call this code as a subprocess in e.g. python for machine learning purposes.
+
 ## Getting Started
 
 The project is built using CMake version >= 3.9.3. A few CMake scripts should give enough information regarding what is missing.
